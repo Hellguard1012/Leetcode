@@ -13,7 +13,7 @@ This repository contains my solutions to LeetCode problems in C++. I am actively
 ---
 
 ## ✅ Progress Tracker
-| Problem | Difficulty | Solution | Notes |
+| Problem | Difficulty |  Notes |
 |---------|------------|----------|-------|
 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy || Hashmap |
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy |  | Two Pointers |
