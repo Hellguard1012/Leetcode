@@ -13,11 +13,11 @@ This repository contains my solutions to LeetCode problems in C++. I am actively
 ---
 
 ## ✅ Progress Tracker
-| Problem | Difficulty | Solution | Notes |
-|---------|------------|----------|-------|
-| [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Link](Easy/TwoSum.cpp) | Hashmap |
-| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [Link](Easy/ValidPalindrome.cpp) | Two Pointers |
-| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Link](Medium/GroupAnagrams.cpp) | Hashmap |
+| Problem | Difficulty | Notes |
+|---------|------------|-------|
+| [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Hashmap |
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers |
+| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Hashmap |
 
 ---
 
